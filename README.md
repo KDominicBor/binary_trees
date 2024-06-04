@@ -61,14 +61,14 @@ At the end of this project, We were able to undesrtand these questions:
 
 | Filename |
 | ------ |
-| [0-binary_tree_node.c]([https://github.com/kdominicbor/0x1D-binary_trees/blob/master/0-binary_tree_node.c)|
-| [1-binary_tree_insert_left.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/master/1-binary_tree_insert_left.c)|
-| [2-binary_tree_insert_right.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/master/2-binary_tree_insert_right.c)|
-| [3-binary_tree_delete.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/master/3-binary_tree_delete.c)|
-| [4-binary_tree_is_leaf.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/master/4-binary_tree_is_leaf.c)|
-| [5-binary_tree_is_root.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/master/5-binary_tree_is_root.c)|
-| [6-binary_tree_preorder.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/master/6-binary_tree_preorder.c)|
-| [7-binary_tree_inorder.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/master/7-binary_tree_inorder.c)|
+| [0-binary_tree_node.c]([https://github.com/kdominicbor/0x1D-binary_trees/blob/main/0-binary_tree_node.c)|
+| [1-binary_tree_insert_left.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/1-binary_tree_insert_left.c)|
+| [2-binary_tree_insert_right.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/2-binary_tree_insert_right.c)|
+| [3-binary_tree_delete.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/3-binary_tree_delete.c)|
+| [4-binary_tree_is_leaf.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/4-binary_tree_is_leaf.c)|
+| [5-binary_tree_is_root.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/5-binary_tree_is_root.c)|
+| [6-binary_tree_preorder.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/6-binary_tree_preorder.c)|
+| [7-binary_tree_inorder.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/7-binary_tree_inorder.c)|
 | [8-binary_tree_postorder.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/master/8-binary_tree_postorder.c)|
 | [9-binary_tree_height.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/master/9-binary_tree_height.c)|
 | [10-binary_tree_depth.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/master/10-binary_tree_depth.c)|
