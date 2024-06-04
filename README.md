@@ -61,8 +61,8 @@ At the end of this project, We were able to undesrtand these questions:
 
 | Filename |
 | ------ |
-| [0-binary_tree_node.c]([https://github.com/kdominicbor/0x1D-binary_trees/blob/main/0-binary_tree_node.c)|
-| [1-binary_tree_insert_left.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/1-binary_tree_insert_left.c)|
+| [0-binary_tree_node.c](https://github.com/KDominicBor/binary_trees/blob/main/0-binary_tree_node.c)|
+| [1-binary_tree_insert_left.c](https://github.com/KDominicBor/binary_trees/blob/main/1-binary_tree_insert_left.c)|
 | [2-binary_tree_insert_right.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/2-binary_tree_insert_right.c)|
 | [3-binary_tree_delete.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/3-binary_tree_delete.c)|
 | [4-binary_tree_is_leaf.c](https://github.com/kdominicbor/0x1D-binary_trees/blob/main/4-binary_tree_is_leaf.c)|
